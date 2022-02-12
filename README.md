@@ -1,3 +1,3 @@
-# Rocket-Bird-INS
+# Rocket-Bird-IPMS
 
 plz wok
